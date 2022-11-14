@@ -152,7 +152,7 @@ audio,
   animation: notableAnimation2 7.5s linear infinite;
 }
 .zimu4 {
-  font-size: 17pt;
+  font-size: 18pt;
   margin-left: 20rpx;
   position: absolute;
   top: 32%;
@@ -164,8 +164,8 @@ audio,
   font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
-  top: 45%;
-  color: #d5c6a7;
+  top: 38%;
+  color: #cac7c1;
   white-space: nowrap;
   animation: notableAnimation 18s linear infinite;
 }
@@ -174,7 +174,7 @@ audio,
   margin-left: 20rpx;
   position: absolute;
   top: 55%;
-  color: #a395f9;
+  color: #559def;
   white-space: nowrap;
   animation: notableAnimation2 8s linear infinite;
 }
