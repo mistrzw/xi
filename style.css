@@ -4,7 +4,7 @@
 }
 
 body {
-  background: url(./src/e.jpg) no-repeat center center;
+  background: url(./src/e.jpg) no-repeat center;
   background-color: black;
   background-size: cover;
   height: 100vh;
@@ -31,9 +31,9 @@ audio,
 }
 
 .love_you {
-  top: 45%;
+  top: 49%;
   font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 1.6rem;
+  font-size: 1.3rem;
   font-weight: bold;
   color: #ffc0cb;
   letter-spacing: 0.05rem;
@@ -125,7 +125,7 @@ audio,
 }
 
 .zimu {
-  font-size: 20pt;
+  font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
   top: 9%;
@@ -134,7 +134,7 @@ audio,
   animation: notableAnimation 8s linear infinite;
 }
 .zimu2 {
-  font-size: 20pt;
+  font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
   top: 16%;
@@ -143,7 +143,7 @@ audio,
   animation: notableAnimation2 15s linear infinite;
 }
 .zimu3 {
-  font-size: 20pt;
+  font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
   top: 27%;
@@ -152,7 +152,7 @@ audio,
   animation: notableAnimation2 7.5s linear infinite;
 }
 .zimu4 {
-  font-size: 20pt;
+  font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
   top: 32%;
@@ -161,7 +161,7 @@ audio,
   animation: notableAnimation 9s linear infinite;
 }
 .zimu5 {
-  font-size: 20pt;
+  font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
   top: 45%;
@@ -170,7 +170,7 @@ audio,
   animation: notableAnimation 18s linear infinite;
 }
 .zimu6 {
-  font-size: 20pt;
+  font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
   top: 55%;
@@ -179,7 +179,7 @@ audio,
   animation: notableAnimation2 8s linear infinite;
 }
 .zimu7 {
-  font-size: 20pt;
+  font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
   top: 67%;
@@ -188,7 +188,7 @@ audio,
   animation: notableAnimation 9s linear infinite;
 }
 .zimu8 {
-  font-size: 20pt;
+  font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
   top: 76%;
@@ -197,7 +197,7 @@ audio,
   animation: notableAnimation2 22s linear infinite;
 }
 .zimu9 {
-  font-size: 20pt;
+  font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
   top: 87%;
@@ -206,7 +206,7 @@ audio,
   animation: notableAnimation 9s linear infinite;
 }
 .zimu10 {
-  font-size: 20pt;
+  font-size: 17pt;
   margin-left: 20rpx;
   position: absolute;
   top: 93%;
